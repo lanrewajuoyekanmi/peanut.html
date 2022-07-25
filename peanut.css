@@ -1,0 +1,49 @@
+.head{
+    text-align: center;
+    background-color: burlywood;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.logo{
+    border: solid;
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+    border-color: gold;
+    width: 70%;
+    border-left-color: black;
+    border-top-color:black ;
+    
+}
+body{
+    background-image: url(peanut.jpeg);
+}
+h2{
+    color:gold;
+    font: size 250%;
+    font-family: cursive;
+}
+.burger{
+margin-left:5% ;
+}
+.feel{
+    color: black;
+    margin-top: 0%;
+}
+.item p{
+    display: inline-block;
+}
+.size {
+    text-align: left;
+    width: 50%;
+    font-family:cursive;
+    font-weight: bold;
+  }
+  
+  .price {
+    text-align: right;
+    width: 50%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  }
+  
